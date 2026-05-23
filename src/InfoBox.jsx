@@ -59,8 +59,8 @@ function InfoBox({ name, department }) {
   </p>
   <p style={{
     color: "#000000",
-    margin: "0",          // 0 0 0px → 0
-    lineHeight: "1.5",   // 추가
+    margin: "0",          
+    lineHeight: "1.5",  
     fontSize: "12px",
     whiteSpace: "nowrap",
     overflow: "hidden",
@@ -71,7 +71,7 @@ function InfoBox({ name, department }) {
   <p style={{
     color: "#000000",
     margin: 0,
-    lineHeight: "1.2",   // 추가
+    lineHeight: "1.2",  
     fontSize: "12px",
     whiteSpace: "nowrap",
   }}>
