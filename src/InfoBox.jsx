@@ -9,7 +9,7 @@ function InfoBox({ name, department }) {
   return (
     <div style={{
       border: "1.5px solid #000000",
-      borderRadius: "0px",
+      borderRadius: "0px",  
       width: "180px",
       overflow: "hidden",
       backgroundColor: "#ffffff",

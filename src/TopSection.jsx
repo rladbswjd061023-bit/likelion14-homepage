@@ -9,7 +9,7 @@ function TopSection({ activeGen, setActiveGen }) {
         <div style={{
           display: "inline-block",
           border: "2px solid #333",
-          padding: "8px 24px",
+          padding: "8px 24px", 
           position: "relative",
         }}>
           <span style={{ position: "absolute", top: "-5px", left: "-5px", width: "8px", height: "8px", backgroundColor: "#333" }} />
